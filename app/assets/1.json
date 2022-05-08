@@ -1,0 +1,19 @@
+{
+    "name": "Tesla_Model3",
+    "symbol": "TSL3",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "BXQRHPHJY1s598VYXCXw4hMHm9BHG4oxgpiZDa2qL6Dh",
+          "share": 100
+        }
+      ]
+    }
+  }
